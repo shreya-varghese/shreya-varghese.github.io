@@ -1,0 +1,23 @@
+Anatomical brain geometry
+
+Source: Brain Project by Itay Inbar
+https://github.com/itayinbarr/brainproject
+https://itayinbarr.github.io/brainproject/
+Source model: brain-atlas/models/brain.glb
+
+Anatomy: Z-Anatomy contributors / BodyParts3D
+Copyright The Database Center for Life Science (DBCLS)
+https://www.z-anatomy.com/
+https://lifesciencedb.jp/bp3d/
+
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Adaptation for this portfolio: selected cortex, cerebellum, and brainstem
+meshes; decoded and combined geometry; centered and uniformly normalized
+vertex coordinates; converted to a compact indexed binary format, gzip-compressed and wrapped in a local JavaScript asset.
+The adapted geometry in brain-anatomy.js remains under CC BY-SA 4.0.
+Full upstream license notices: brain-source-license.txt.
+
+The scan and highlighted region are conceptual overlays for the portfolio,
+not a patient MRI, clinical segmentation, or medical diagnosis.
